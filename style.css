@@ -1,0 +1,101 @@
+/*STYLE*/
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/*BODY*/
+#conteiner {
+    background: rgba(143, 124, 95, 0.664);
+}
+/*TOPO*/
+#header {
+    width: 98.5vw;
+    text-align: center;
+    display: inline-block;
+}
+
+.logo {
+    display: inline-block;
+    margin: 10px 10px 10px 90px;
+    float: left;
+}
+
+.menu {
+    display: inline-block;
+    margin: 20px;
+}
+
+.menu ul li{
+    display: inline-block;
+}
+
+a {
+    text-decoration: none;
+    padding: 10px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.img {
+    display: block;
+    float: right;
+    margin: 10px 150px 10px 10px;
+}
+
+/*MAIN*/
+#conteudo {
+    width: 350px;
+    height: 200px;
+    margin: 80px 500px 0px 0px;
+    float: right;
+}
+
+.red {
+    color: red;
+    margin-bottom: 5px;
+}
+
+.titulo {
+    margin-bottom: 18px;
+}
+
+.text {
+    margin-bottom: 30px;
+}
+
+.img1 {
+    position: absolute; 
+    top: 100px; 
+    left: 30px; 
+}
+.img2 {
+    position: absolute; 
+    top: 400px; 
+    left: 420px; 
+}
+.img3 {
+    position: absolute; 
+    top: 400px; 
+    left: 620px; 
+}
+.img4 {
+    position: absolute; 
+    top: 400px; 
+    left: 820px; 
+}
+.img5 {
+    position: absolute; 
+    top: 400px; 
+    left: 1020px; 
+}
+
+
+
+
+
+
+
+
