@@ -2,5 +2,5 @@
 # Challenge.
 Figma Resources
 
-# Criado por!
-O talentoso designer, AR Shakir,criou isso para a comunidade usar gratuitamente.
+# Created by!
+Talented designer AR Shakir created this for the community to use for free.
