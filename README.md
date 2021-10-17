@@ -9,6 +9,9 @@ Figma Resources
 # Language.
 HTML, CSS.
 
+# Challenge proposal
+Recreate this one page for a simple coffee sale website.
+
 # Created by!
 Talented designer AR Shakir created this for the community to use for free.
 <br/> <br/> <br/>
