@@ -1,7 +1,6 @@
 
 # Challenge.
 Figma Resources
-
 <br/><br/>
 ![Apresentação da Pagina](https://github.com/IsadoraVanderlan/website-coffe/blob/main/Apresenta%C3%A7%C3%A3o.gif)
 <br/>
